@@ -152,9 +152,9 @@
 
 ## 🌟 Highlighted Projects  
 
-### **Bonder**
+### **Professional Social Media Platform**
 A privacy-first real-time social platform with subscriptions, payouts, and encrypted messaging.  
-**Tech:** Koa.js, PostgreSQL, Redis, BullMQ, Stripe Connect, Blackhawk Network, React, TypeScript
+**Tech:** express.js, PostgreSQL, Redis, BullMQ, Stripe Connect, Blackhawk Network, React, TypeScript
 
 ### **IoT Automation Platforms**
 Built distributed IoT systems with real-time device communication.  
