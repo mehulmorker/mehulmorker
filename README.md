@@ -35,9 +35,7 @@
 ---
 
 ## 🔭 Current Work  
-- Building **Ticket Booking Application** with real-time flows  
-- Contributing to **scalable backend & cloud architectures**  
-- Improving **subscription billing, payments, and distributed workflows**
+- Building **autonomous_incident_response_system** with Langgraph 
 
 ---
 
